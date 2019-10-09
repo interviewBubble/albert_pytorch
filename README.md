@@ -1,4 +1,4 @@
-## albert_zh_pytorch
+## Google ALBERT Pytorch
 
 This repository contains a PyTorch implementation of the albert model from the paper 
 
@@ -83,7 +83,7 @@ Thanks to Brightmart for providing Chinese model weights: [github](https://githu
 
 3. Run `python run_pretraining.py --share_type=all` for model pre-training
 
-** Model size**
+**Model size**
 
 The following is the result of an experiment with `bert-base`
 
